@@ -1,2 +1,2 @@
-NEWS_API_KEY ='1467a8ee17be4cd997e30dfb455be87a'
+NEWS_API_KEY='1467a8ee17be4cd997e30dfb455be87a'
 SECRET_KEY='dagcyrus'
